@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactjs-my-profile/static/css/main.9fec6ced.css",
+    "main.js": "/reactjs-my-profile/static/js/main.39338e34.js",
+    "static/media/duytq-cv.pdf": "/reactjs-my-profile/static/media/duytq-cv.0b132316d2e0a1afc344.pdf",
+    "static/media/iCielVAGRoundedNext-Bold.otf": "/reactjs-my-profile/static/media/iCielVAGRoundedNext-Bold.f03c9db303e4dfc905be.otf",
+    "static/media/iCielVAGRoundedNext-DemiBold.otf": "/reactjs-my-profile/static/media/iCielVAGRoundedNext-DemiBold.26f36a5371c770b6c4ba.otf",
+    "static/media/iCielVAGRoundedNext-Medium.otf": "/reactjs-my-profile/static/media/iCielVAGRoundedNext-Medium.87fae34d5c5db518e68e.otf",
+    "static/media/iCielVAGRoundedNext-Regular.otf": "/reactjs-my-profile/static/media/iCielVAGRoundedNext-Regular.81c016f8092fb5f47cdc.otf",
+    "static/media/iCielVAGRoundedNext-LightItalic.otf": "/reactjs-my-profile/static/media/iCielVAGRoundedNext-LightItalic.5b88149c69870e548909.otf",
+    "static/media/iCielVAGRoundedNext-Light.otf": "/reactjs-my-profile/static/media/iCielVAGRoundedNext-Light.aca319ca829a2083ba7b.otf",
+    "static/media/avatar.jpg": "/reactjs-my-profile/static/media/avatar.904ba37740d6e0d24223.jpg",
+    "index.html": "/reactjs-my-profile/index.html",
+    "main.9fec6ced.css.map": "/reactjs-my-profile/static/css/main.9fec6ced.css.map",
+    "main.39338e34.js.map": "/reactjs-my-profile/static/js/main.39338e34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fec6ced.css",
+    "static/js/main.39338e34.js"
+  ]
+}
