@@ -3,9 +3,9 @@
   "name": "Tran Quang Duy",
   "icons": [
     {
-      "src": "avatar.jpgß",
+      "src": "images/avatar.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/jpeg"
     }
   ],
   "start_url": ".",
